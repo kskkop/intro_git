@@ -1,3 +1,5 @@
 GitHubの練習
 基礎的なワークフローを学びます
 コミット
+git add
+git commit
