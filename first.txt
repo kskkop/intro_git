@@ -3,3 +3,4 @@ GitHubの練習
 コミット
 git add
 git commit
+git rm
